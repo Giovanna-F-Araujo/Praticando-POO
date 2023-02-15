@@ -1,3 +1,3 @@
 # Praticando POO
 
-Praticando POO com Java - Nível básico.
+Praticando Programação Orientada a objetos com  linguagem Java - Nível básico.
